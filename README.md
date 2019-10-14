@@ -7,6 +7,10 @@
 ### Objective
 ***Make your story like Shakespeare with your own model.***
 
+#### Dataset Link
+1. http://shakespeare.mit.edu/
+2. https://github.com/ravexxina/shakespeare-plays-dataset-scraper
+
 #### Introduction
 1. Select the one dataset from Shakespeare's plays database.
 2. Generate 3 sentences that start with any words you want.
