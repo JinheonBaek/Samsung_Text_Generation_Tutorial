@@ -1,5 +1,5 @@
 ## Samsung AI KAIST
----
+
 ### Text Generation Assignment #1
 실습 일시: 2019년 10월 15일 (화), 13:30 - 17:30 </br>
 담당 조교: 백진헌 (jinheon.baek@gmail.com)
