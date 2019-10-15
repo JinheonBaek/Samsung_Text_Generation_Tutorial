@@ -1,11 +1,15 @@
 ## Samsung AI KAIST
----
+
 ### Text Generation Assignment #1
 실습 일시: 2019년 10월 15일 (화), 13:30 - 17:30 </br>
 담당 조교: 백진헌 (jinheon.baek@gmail.com)
 
 ### Objective
 ***Make your story like Shakespeare with your own model.***
+
+#### Dataset Link
+1. http://shakespeare.mit.edu/
+2. https://github.com/ravexxina/shakespeare-plays-dataset-scraper
 
 #### Introduction
 1. Select the one dataset from Shakespeare's plays database.
