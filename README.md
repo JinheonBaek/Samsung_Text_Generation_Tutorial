@@ -20,7 +20,7 @@
 * 코드가 정상 작동하면 5점 (5점 만점)
 
 #### Submission
-아래 3개의 파일을 첨부해서 jinheon.baek@gmali.com 으로 **10/22** 까지 제출 해주시면 됩니다.
+아래 3개의 파일을 첨부해서 jinheon.baek@gmail.com 으로 **10/22** 까지 제출 해주시면 됩니다.
 * code: assignment_<이름>.ipynb
 * checkpoint: cp_<이름>.net
 * sentences: sentences_<이름>.txt
